@@ -1,7 +1,7 @@
 ---
 title: "Offensive Security Experienced Penetration Tester Exam Report"
-author: ["student@youremailaddress.com", "OSID: XXXX"]
-date: "2021-03-25"
+author: ["XXXXX@xx.com", "OSID: XXXX"]
+date: "2021-07-25"
 subject: "Markdown"
 keywords: [Markdown, Example]
 subtitle: "OSEP Exam Report"
